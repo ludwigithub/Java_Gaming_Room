@@ -6,7 +6,7 @@ CTS has recently taken on a new client, The Gaming Room. The Gaming Room wants t
 <b>What did you do particularly well in developing this documentation? What about the process of working through a design document did you find helpful when developing the code?</b>
 <p>I enjoyed working with the UML diagram It helps to visualize how the program needs to be structured and developed.</p>
 <b>If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?</b>
-<p>I will be interested in the future to look back at this and see how my answers would differ on the evaluations and recommendations once I have more experience and exposure in the working field.</p>
+<p>I will be interested in the future to look back at this and see how my answers would differ on the evaluations and recommendations once I have more experience and exposure working in the field.</p>
 <b>How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?</b>
 <p>Our client had the following restraints:<br>
 •	Must be in a web-based format and serve multiple platforms.<br>
